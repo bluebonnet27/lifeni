@@ -4,9 +4,9 @@
 
 <br />
 
-我主要研究的方向是 Web 前端，目前正在学习 TypeScript。
+我主要研究的方向是 Web 前端，喜欢好看的设计。
 
-[lifeni.life](https://lifeni.life/) 是我的个人网站。
+我的个人网站在 [lifeni.life](https://lifeni.life/)，欢迎来看看。
 
 <!--
 **Lifeni/lifeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
